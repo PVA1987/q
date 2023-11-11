@@ -1,0 +1,5 @@
+version: '3'
+services:
+  qub:
+    build: ./qub
+    restart: always
