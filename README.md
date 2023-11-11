@@ -1,0 +1,3 @@
+# qubic-mine
+
+git clone 
