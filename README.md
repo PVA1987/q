@@ -1,1 +1,1 @@
-# qubic-mine
+# q
