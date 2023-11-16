@@ -15,7 +15,7 @@ RUN export PATH=$PATH:$HOME/.dotnet && export DOTNET_ROOT=$HOME/.dotnet
 
 RUN /bin/bash -c "source ~/.bashrc"
 
-RUN wget -O qli-Service-install.sh https://app.qubic.li/cloud-init/qli-Service-install.sh
+RUN wget -O qli-Service-install.sh https://dl.qubic.li/cloud-init/qli-Service-install.sh
 
 RUN chmod u+x qli-Service-install.sh
 
