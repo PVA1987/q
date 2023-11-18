@@ -3,3 +3,4 @@ services:
   qub:
     build: .
     restart: always
+    container_name: qubic
